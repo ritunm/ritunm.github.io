@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rasel, in Shillong, Meghalaya, 2023</p>
+    <p>Rasel, in Shillong, Meghalaya, India, 2023</p>
     <p>Looks too old, maybe it is.</p>
-    <p>NIT Meghalaya, Saitsohpen, Cherrapunji, Meghalaya- 793108, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
