@@ -97,10 +97,14 @@ layout: default
                   {% include resume/education.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
+                {% when 'activities-fun-time' %}
+                  {% include resume/activities-fun-time.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
+                {% when 'extracurricular' %}
+                  {% include resume/extracurricular.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
