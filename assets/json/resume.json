@@ -6,7 +6,7 @@
     "email": "raselm****e@gmail.com",
     "phone": "",
     "url": "https://raselm.me/",
-    "summary": "Undergrad student from Bangladesh, currently studying at NIT Meghalaya, India. Actively involved in research projects, and I love to explore and learn unknown things.",
+    "summary": "Undergrad student, currently studying at NIT Meghalaya, India. Actively involved in research projects, and I love to explore and learn unknown things.",
     "location": {
       "address": "NIT Meghalaya, Saitsohpen, Cherrapunji, Meghalaya",
       "postalCode": "793108 (ML)",
@@ -39,7 +39,7 @@
       "startDate": "2023-09-01",
       "endDate": "2025-03-01",
       "summary": "Working on quantum cryptography, semi-teleportation, and medical image analysis. Developed ML models for spine, polyps, and breast cancer. Built software for quantum experiments and research model testing.",
-      "location": "Shillong, Meghalaya, India",
+      "location": "Shillong, India",
       "highlights": [
         "Engineered software to acquire and measure quantum experiment readings",
         "Developed machine learning models for medical image segmentation, annotation, and classification (Polyps, Breast Cancer, Spine)",
@@ -223,6 +223,33 @@
     "startDate": "2023-10-01",
     "endDate": "2024-12-12",
     "url": ""
+  }
+],
+
+"extracurricular": [
+  {
+    "title": "Undergraduate Research Lead",
+    "organization": "CVML Lab, NIT Meghalaya",
+    "summary": "Led an undergraduate research team in the CVML (Computer Vision and Machine Learning) Lab at NIT Meghalaya.",
+    "startDate": "2023-09-01",
+    "endDate": "2024-12-12",
+    "location": "Shillong, Meghalaya, India"
+  },
+  {
+    "title": "Content Creator",
+    "organization": "YouTube",
+    "summary": "Making videos based on Cyber Security/Ethical Hacking, Malware Analysis, and Deep Learning on YouTube occasionally.",
+    "startDate": "2023-01-01",
+    "endDate": "Present",
+    "location": "Online"
+  },
+  {
+    "title": "Sports",
+    "organization": "NIT Meghalaya",
+    "summary": "Engaging in badminton and chess.",
+    "startDate": "2023-01-01",
+    "endDate": "Present",
+    "location": "Saitsohpen, Cherrapunji, Meghalaya, India"
   }
 ]
 
