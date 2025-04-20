@@ -632,9 +632,11 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
+  - activities-fun-time
   - education
   - publications
   - projects
+  - extracurricular
   - volunteer
   - awards
   - certificates
