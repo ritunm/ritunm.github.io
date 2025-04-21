@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: I have had the opportunity to work with and under incredibly talented and intellectual individuals and supervisors, and I am currently collaborating with some equally talented people.
 nav: true
 nav_order: 7
 
@@ -10,19 +10,46 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_r.md
-    image_circular: false # crops the image to make it circular
+    image: prof_dsr.jpg
+    content: about_dsr.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p> Ph.D, BIT Mesra </p>
+      <p> diptendu.sr@nitm.ac.in </p>
+      <p> diptendu.sr@gmail.com </p>
   - align: left
-    image: prof_pic.jpg
-    content: about_r.md
+    image: dr_surmila.jpg
+    content: about_sur.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p> Ph.D, NIT Meghalaya </p>
+      <p> surmila.thokchom@nitm.ac.in </p>
+  - align: right
+    image: dr_bunil.jpeg
+    content: about_bkb.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> Ph.D. (NIT Rourkela) </p>
+      <p> bunil@nitm.ac.in </p>
+  - align: left
+    image: pushpak_das.jpg
+    content: about_pushpak.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> ME in Software Engineering (BIT, Mesra)</p>
+      <p> pushpakdas@nitm.ac.in </p>
+  - align: right
+    image: abisek_dahal.jpg
+    content: about_abisek.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p> M.Tech Computer Science &Engineering, NIT Sikkim </p>
+      <p> abiseknitskm@gmail.com </p>
+  - align: left
+    image: dillip_mishra.jpg
+    content: about_mishra.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> M-Tech (CSE), ABIT (Biju Patnaik University of Technology) </p>
+      <p> mishra.dillip88@gmail.com </p>
 ---
