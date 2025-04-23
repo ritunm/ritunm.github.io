@@ -433,11 +433,6 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -468,6 +463,11 @@ ninja.data = [{
           description: "This research explores improving Quantum Cryptography through single particle state rotation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/quantum_cryp/";
+            },},{id: "projects-lumbosacral-spine-mri-segmentation",
+          title: 'Lumbosacral Spine MRI Segmentation',
+          description: "Lumbosacral spine MRI segmentation and fracture assessment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spine_mri/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
