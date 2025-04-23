@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-rasel-39-s-projects",
-          title: "Rasel&#39;s projects",
+        },{id: "nav-projects",
+          title: "projects",
           description: "This list is not a complete list of my projects that I have completed or ongoing; still, I am trying to include most of them here and will try to share updates about them frequently.",
           section: "Navigation",
           handler: () => {
