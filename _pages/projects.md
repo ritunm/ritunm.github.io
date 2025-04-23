@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Rasel's projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This list is not a complete list of my projects that I have completed or ongoing; still, I am trying to include most of them here and will try to share updates about them frequently. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Research, work, fun]
 horizontal: false
 ---
 
