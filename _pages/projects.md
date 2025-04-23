@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rasel's projects
+title: projects
 permalink: /projects/
 description: This list is not a complete list of my projects that I have completed or ongoing; still, I am trying to include most of them here and will try to share updates about them frequently. 
 nav: true
