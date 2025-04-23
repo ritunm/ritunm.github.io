@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantum Cryptography with Single Particle State Rotation
+title: Quantum Cryptography
 description: This research explores improving Quantum Cryptography through single particle state rotation.
 img: assets/img/ref-pol.gif
 importance: 1
@@ -18,7 +18,7 @@ Initial State Setup: A series of particles are prepared in specific quantum stat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/intial_changes.png" title="initial-changes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/initial_changes.png" title="initial-changes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -46,9 +46,7 @@ Storing Measurement Outcomes
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/initial_changes.png" title="initial changes" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/classical-bits.png" title="classical bits" class="img-fluid rounded z-depth-1" %}
-    </div>
+
 </div>
 
 <div class="caption">
