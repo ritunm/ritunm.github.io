@@ -2,12 +2,12 @@
 layout: page
 title: Lumbosacral Spine MRI Segmentation
 description: Lumbosacral spine MRI segmentation and fracture assessment.
-img:
+img: assets/img/spine.gif
 importance: 2
 category: Research
 ---
 
-Aimed to develop a deep learning model that can automatically find and highlight parts of the lower spine (lumbosacral region) in MRI scans. It can also check for possible fractures. By using models like nnU-Net, the system (integrating machine learning models with a software application) can accurately spot bones and discs, helping doctors measure and analyze spine injuries more easily and quickly.
+Aimed to develop a deep learning model that can automatically find and highlight parts of the lower spine (lumbosacral region) in MRI scans. It can also check for possible fractures. By using models like nnU-Net, the system-integrating machine learning models with a software application-can accurately spot bones and discs, helping doctors measure and analyze spine injuries more easily and quickly.
 
 <div class="caption">
             Overview (Performance) of a customized nnU-Net version
