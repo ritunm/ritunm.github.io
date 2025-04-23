@@ -463,8 +463,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-quantum-cryptography-with-single-particle-state-rotation",
-          title: 'Quantum Cryptography with Single Particle State Rotation',
+            },},{id: "projects-quantum-cryptography",
+          title: 'Quantum Cryptography',
           description: "This research explores improving Quantum Cryptography through single particle state rotation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/quantum_cryp/";
