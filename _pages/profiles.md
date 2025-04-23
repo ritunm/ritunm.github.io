@@ -45,11 +45,4 @@ profiles:
     more_info: >
       <p> M.Tech Computer Science &Engineering, NIT Sikkim </p>
       <p> abiseknitskm@gmail.com </p>
-  - align: left
-    image: dillip_mishra.jpg
-    content: about_mishra.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p> M-Tech (CSE), ABIT (Biju Patnaik University of Technology) </p>
-      <p> mishra.dillip88@gmail.com </p>
 ---
