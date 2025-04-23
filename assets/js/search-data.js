@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-rasel-39-s-projects",
+          title: "Rasel&#39;s projects",
+          description: "This list is not a complete list of my projects that I have completed or ongoing; still, I am trying to include most of them here and will try to share updates about them frequently.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -423,12 +423,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-quantum-cryptography-with-single-particle-state-rotation",
-          title: 'Quantum Cryptography with Single Particle State Rotation',
-          description: "This research explores improving Quantum Cryptography through single particle state rotation.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -468,6 +463,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-quantum-cryptography-with-single-particle-state-rotation",
+          title: 'Quantum Cryptography with Single Particle State Rotation',
+          description: "This research explores improving Quantum Cryptography through single particle state rotation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/quantum_cryp/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
