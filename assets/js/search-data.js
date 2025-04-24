@@ -468,6 +468,16 @@ ninja.data = [{
           description: "Lumbosacral spine MRI segmentation and fracture assessment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/spine_mri/";
+            },},{id: "projects-mri-seg-tool-cross-platform",
+          title: 'MRI-SEG Tool (Cross-Platform)',
+          description: "MRI-SEG, Spine MRI Segmentation and Classification Tool (Cross-Platform)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spine_mri_package/";
+            },},{id: "projects-mri-seg-lite-lightweight-spine-mri-segmentation",
+          title: 'MRI-SEG Lite - Lightweight Spine MRI Segmentation',
+          description: "MRI SEG Lite – Lightweight Spine MRI Segmentation for Edge Devices (R-Pi &amp; all.)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spine_mri_rc/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
