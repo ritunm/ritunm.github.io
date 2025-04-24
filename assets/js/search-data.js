@@ -473,7 +473,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("raselmandol.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/raselmandol.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
