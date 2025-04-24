@@ -8,7 +8,6 @@ category: work
 
 ---
 
-# ChatGPT Conversation Heatmap
 
 This project visualizes daily ChatGPT activity as a GitHub-style contribution heatmap, showing the number of conversations per day.
 <div class="row">
