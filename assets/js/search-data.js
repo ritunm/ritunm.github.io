@@ -428,16 +428,6 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-chatgpt-conversation-heatmap",
           title: 'ChatGPT Conversation Heatmap',
           description: "This project visualizes ChatGPT conversation activity in a GitHub-style heatmap.",
@@ -453,6 +443,11 @@ ninja.data = [{
           description: "Desktop application for Comprehensive Rust-bn built using electron js.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/comprehensive_rust_desktop/";
+            },},{id: "projects-gptdesk",
+          title: 'gptDesk',
+          description: "This desktop application leverages the power of ChatGPT",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gpt_desk/";
             },},{id: "projects-depth-resnet-polyp-image-classification-tool",
           title: 'Depth-ResNet – Polyp Image Classification Tool',
           description: "DepthResNet – Polyp Image Classification Tool using Depth-ResNet (Cross-Platform)",
@@ -483,6 +478,11 @@ ninja.data = [{
           description: "GUI for SQLMAP, a powerful tool for automated SQL injection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sqlmap_gui/";
+            },},{id: "projects-ub-gui",
+          title: 'UB GUI',
+          description: "UB GUI is a desktop application to give windows a look of Ubuntu.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ub_gui/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
