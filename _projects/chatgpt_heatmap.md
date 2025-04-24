@@ -11,7 +11,11 @@ category: work
 # ChatGPT Conversation Heatmap
 
 This project visualizes daily ChatGPT activity as a GitHub-style contribution heatmap, showing the number of conversations per day.
-![chatgpt-heatmap](https://raw.githubusercontent.com/raselmandol/chatgpt-heatmap/refs/heads/main/assets/1.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/chatgpt_heatmap1.png" title="chatgpt-heatmap" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 The original version of [ai-heatmap](https://github.com/chiphuyen/aie-book/blob/main/scripts/ai-heatmap.ipynb) is from author Chip Huyen([@chiphuyen](https://github.com/chiphuyen)) and the repo [aie-book](https://github.com/chiphuyen/aie-book) (every AI engineer building real-world applications should read this book).
@@ -64,8 +68,17 @@ Before you begin, ensure you have the following installed:
 
 ## Sample Heatmap
 
-![Sample Heatmap](https://raw.githubusercontent.com/raselmandol/chatgpt-heatmap/refs/heads/main/assets/1.png)
-![Sample Heatmap](https://raw.githubusercontent.com/raselmandol/chatgpt-heatmap/refs/heads/main/assets/2.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/chatgpt_heatmap1.png" title="chatgpt-heatmap" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/chatgpt_heatmap2.png" title="chatgpt-heatmap-style-2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 ## Customization

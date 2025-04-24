@@ -10,7 +10,11 @@ category: work
 
 # sqlmap-gui
 
-![GUI Preview](https://raw.githubusercontent.com/raselmandol/sqlmap-gui/refs/heads/main/sqlmap_gui/resources/icon.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sqlmap_icon.png" title="sqlmap-icon" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 `sqlmap-gui` is a Python-based graphical user interface (GUI) for interacting with the powerful [sqlmap](https://github.com/sqlmapproject/sqlmap) penetration testing tool. This GUI simplifies the use of sqlmap, enabling users to execute SQL injection tests and analyze vulnerabilities without requiring extensive command-line experience.
