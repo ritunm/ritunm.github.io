@@ -433,16 +433,16 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-chatgpt-conversation-heatmap",
+          title: 'ChatGPT Conversation Heatmap',
+          description: "This project visualizes ChatGPT conversation activity in a GitHub-style heatmap.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chatgpt_heatmap/";
             },},{id: "projects-comprehensive-rust-bn-translated",
           title: 'Comprehensive Rust - bn translated',
           description: "This is the Rust course used by the Android team at Google. I have translated part of it into Bengali.",
