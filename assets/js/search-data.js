@@ -458,6 +458,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-depth-resnet-polyp-image-classification-tool",
+          title: 'Depth-ResNet – Polyp Image Classification Tool',
+          description: "DepthResNet – Polyp Image Classification Tool using Depth-ResNet (Cross-Platform)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/polyps_classification/";
             },},{id: "projects-quantum-cryptography",
           title: 'Quantum Cryptography',
           description: "This research explores improving Quantum Cryptography through single particle state rotation.",
