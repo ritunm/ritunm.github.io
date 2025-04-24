@@ -423,12 +423,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-chatgpt-conversation-heatmap",
+          section: "News",},{id: "projects-chatgpt-conversation-heatmap",
           title: 'ChatGPT Conversation Heatmap',
           description: "This project visualizes ChatGPT conversation activity in a GitHub-style heatmap.",
           section: "Projects",handler: () => {
