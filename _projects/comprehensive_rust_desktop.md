@@ -21,8 +21,11 @@ The project was released for web platform only(afaik). So I tried to make this f
 
 
 
-
-![CC Screenshot](https://raw.githubusercontent.com/raselmandol/comprehensive-rust-bn-desktop/main/screenshots/1.png)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/c_rust.png" title="c_rust" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Comprehensive Rust-bn is a base/electron app can be built on Mac, Linux and Windows using electron js.
 
@@ -54,14 +57,10 @@ If your problem is not addressed yet, [please open a new issue](https://github.c
 
 - Install npm and electron
 - Build with electron Builder
+
 ```bash
-# Install electron
 npm install -g electron
-
-# Install electron-Builder
 npm install electron-builder --save-dev
-
-# build application
 npm run build
 ```
 
@@ -69,14 +68,11 @@ npm run build
 
 - Install npm and electron
 - Build with electron Builder
+
+
 ```bash
-# Install electron
 npm install -g electron
-
-# Install electron-Builder
 npm install electron-builder --save-dev
-
-# build application
 npm run build
 ```
 
