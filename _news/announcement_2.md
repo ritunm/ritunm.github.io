@@ -1,33 +1,66 @@
 ---
 layout: post
-title: A long announcement with details
+title: Deleted several social site accounts
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Earlier this year, around the middle of February, I signed a message through my PGP key. See more about it below.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+# Deleted Several Social Site Accounts
 
-#### Hipster list
+## Description:
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Hello World!
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Due to several reasons, I forced myself to delete several social site accounts of mine, which include:
+
+1. **Matrix/Element:** `@raselm:matrix.org`
+2. **Keybase:** [https://keybase.io/raselm](https://keybase.io/raselm)
+3. **Stack Overflow (new account):** [https://stackoverflow.com/users/22455902/raselmandol](https://stackoverflow.com/users/22455902/raselmandol)
+4. **Reddit (new account):** [https://www.reddit.com/user/raselmandol](https://www.reddit.com/user/raselmandol)
+
+Earlier this year, around the middle of February, I signed a message through my PGP key that stated something like:
+
+> "It is unsure whether I will be back on these sites or not."
+
+Since then, I have not recreated accounts on those social sites. However, I do wish to create new accounts soon.  
+Currently, I am active on **LinkedIn** and **Bluesky**, and I check my emails very frequently.  
+If you wish to reach me, **email** and **LinkedIn** are the best ways.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+## Important:
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+- I have **NOT** changed my PGP keys.  
+  My current public PGP key is:
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZo0PlhYJKwYBBAHaRw8BAQdApANcukg+TVnabdmBfEacVPt4RuHlCpjpwfoo
+KSaN0w60J01kIFJhc2VsIE1hbmRvbCA8cmFzZWxtb25kbGVAZ21haWwuY29tPoiZ
+BBMWCgBBFiEE6IkNNTO6n0iOJL6QcWQOc+Rh4psFAmaND5YCGwMFCQWjXMoFCwkI
+BwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQcWQOc+Rh4psgoAEAopjYU/5zDzLH
+E0Bn87g068xYI6Wov+Z6Bc6AXEyB8/gA/06ZMbo0DjZttB2drJc/5FbdW/uGeyc/
+xiFtQE3Gmb8LuDgEZo0PlhIKKwYBBAGXVQEFAQEHQLcdAl0Q5oqvG5wN8U6jqLzr
+UESnC+uXXBPpvymzx+1sAwEIB4h+BBgWCgAmFiEE6IkNNTO6n0iOJL6QcWQOc+Rh
+4psFAmaND5YCGwwFCQWjXMoACgkQcWQOc+Rh4puTUgEA912uMr0ZmyVy/kd0YFO5
+jfwInhUi5g/Z7KerDfNIhboBAI4arK2XEyKokmIshIgTYxCZ1pPH2g9OgEdt4mYk
+UVUD
+=8trG
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+If anything changes, or if I have any new updates regarding all of this,  
+**I will sign those posts/messages with my PGP key and announce them** either on:
+
+- [My GitHub](https://github.com/raselmandol)
+- or [My personal website](https://raselm.me)
+
+---
+
+## Thank you!
