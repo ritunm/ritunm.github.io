@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The manuscript (titled: Enhanced QC Using Single Particle State Rotation) was accepted at DACS 2024.
+The manuscript (titled: Enhanced QC Using Single-Particle State Rotation) was accepted at DACS 2024.
