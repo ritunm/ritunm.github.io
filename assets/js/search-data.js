@@ -413,7 +413,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-the-manuscript-titled-enhanced-qc-using-single-particle-state-rotation-was-accepted-at-dacs-2024",
-          title: 'The manuscript (titled: Enhanced QC Using Single Particle State Rotation) was accepted at...',
+          title: 'The manuscript (titled: Enhanced QC Using Single-Particle State Rotation) was accepted at DACS...',
           description: "",
           section: "News",},{id: "news-deleted-several-social-site-accounts",
           title: 'Deleted several social site accounts',
