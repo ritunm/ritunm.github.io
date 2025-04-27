@@ -12,7 +12,6 @@ Earlier this year, around the middle of February, I signed a message through my 
 
 # Deleted Several Social Site Accounts
 
-## Description:
 
 Hello World!
 
