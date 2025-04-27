@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deleted several social site accounts
-date: 2015-11-07 16:11:00-0400
+date: 2025-03-17 09:30:00-0400
 inline: false
 related_posts: false
 ---

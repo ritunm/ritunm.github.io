@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-03-27 16:45:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My ongoing research on Medical MRI Image segmentation using Deep Learning on resource-constrained devices - Phase 3 was successful! :sparkles:
