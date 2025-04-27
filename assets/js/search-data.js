@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-the-manuscript-titled-enhanced-qc-using-single-particle-state-rotation-was-accepted-at-dacs-2024",
+          title: 'The manuscript (titled: Enhanced QC Using Single Particle State Rotation) was accepted at...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-deleted-several-social-site-accounts",
+          title: 'Deleted several social site accounts',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-my-ongoing-research-on-medical-mri-image-segmentation-using-deep-learning-on-resource-constrained-devices-phase-3-was-successful-sparkles",
+          title: 'My ongoing research on Medical MRI Image segmentation using Deep Learning on resource-constrained...',
           description: "",
           section: "News",},{id: "projects-chatgpt-conversation-heatmap",
           title: 'ChatGPT Conversation Heatmap',
