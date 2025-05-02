@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: An explorer, trying to find myself. I love to explore and learn unknown things. I mostly spend my time doing research related to Machine Learning/Deep Learning, Machine Learning on Resource-Constrained Devices, Cyber Security, Ethical Hacking, Software Development for all the topics mentioned above, and Human Neuron-related real-time research.
+subtitle: An undergraduate student and an explorer, trying to find myself. I love to explore and learn unknown things. I mostly spend my time doing research related to Machine Learning/Deep Learning, Machine Learning on Resource-Constrained Devices, Cyber Security, Ethical Hacking, Software Development for all the topics mentioned above.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Rasel__.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rasel, in Shillong, Meghalaya, India, 2023</p>
+    <p>Rasel, in Shillong (NEHU Campus), Meghalaya, India, 2024</p>
     <p>Looks too old, maybe it is.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

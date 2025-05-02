@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Md. Rasel Mandol
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th September 2001
     - name: Languages
-      value: English, German
+      value: English, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BTech
+      institution: National Institute of Technology, Meghalaya
+      year: 2026
       description:
         - Description 1.
         - Description 2.
@@ -21,8 +21,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: ...
+      institution: ..
       year: 1900
       description:
         - Description 1.
@@ -31,8 +31,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: ..
+      institution: .....
       year: 1933 - 1955
       description:
         - Description 1.
@@ -41,45 +41,45 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
+    - title: ......random
+      institution: random
       year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    - title: random
+      institution: random
       year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    - title: random
+      institution: random
       year: 1911 - 1917
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
+    - title: random
+      institution: random
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: random
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: random
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description:random
 
-- title: Honors and Awards
+- title: random
   type: time_table
   contents:
     - year: 1921
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - random
+        - random
     - year: 2029
       items:
-        - Max Planck Medal
+        - random
 
-- title: Academic Interests
+- title: random
   type: nested_list
   contents:
     - title: Topic 1.
